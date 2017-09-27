@@ -159,13 +159,13 @@
                     <version>3.1.0</version>
                     <configuration>
                         <warSourceDirectory>src/main/webapp</warSourceDirectory>
-                        <warName>Test-Deploy-In-Azure</warName>
+                        
                         <failOnMissingWebXml>false</failOnMissingWebXml>
                     </configuration>
                 </plugin>
             </plugins>
         </pluginManagement>
-        <finalName>TestDeployAzure</finalName>
+        
     </build>
   
 </project>
